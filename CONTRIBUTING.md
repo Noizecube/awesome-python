@@ -1,5 +1,5 @@
 # Contributing
-
+Bitte sende eine Email an: habmichnochnichtentshieden@lappen.de
 Your contributions are always welcome!
 
 ## Guidelines
